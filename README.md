@@ -99,14 +99,6 @@ zepto-mysql-data-analysis/
 └── zepto_analysis.sql
 ```
 
----
-
-## 🔗 Reference
-
-**Original PostgreSQL Project:**
-https://github.com/amlanmohanty1/zepto-SQL-data-analysis-project
-
-This repository contains my **independent MySQL implementation** of the analysis workflow.
 
 ---
 
