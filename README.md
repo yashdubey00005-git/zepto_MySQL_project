@@ -5,7 +5,7 @@
 
 An end-to-end **SQL data analysis project** using Zepto e-commerce data to analyze **product pricing, discounts, inventory, stock availability, and potential revenue**.
 
-The project was originally based on a PostgreSQL implementation and independently adapted and executed using **MySQL**.
+The dataset was sourced from Kaggle and was originally scraped from Zepto’s official product listings. It mimics what you’d typically encounter in a real-world e-commerce inventory system.
 
 ---
 
